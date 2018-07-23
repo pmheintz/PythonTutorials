@@ -1,0 +1,5 @@
+07/23/2018 03:54:43 AM - LoggingDemo2 - DEBUG: Debug message
+07/23/2018 03:54:43 AM - LoggingDemo2 - INFO: Info message
+07/23/2018 03:54:43 AM - LoggingDemo2 - WARNING: Warning message
+07/23/2018 03:54:43 AM - LoggingDemo2 - ERROR: Error message
+07/23/2018 03:54:43 AM - LoggingDemo2 - CRITICAL: Critical message
